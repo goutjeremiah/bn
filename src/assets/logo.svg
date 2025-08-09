@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.3738 227.2249 374.1067 121.3091"
+    width="374.107px" height="121.309px">
+    <g fill="none" fill-rule="none" stroke="none" stroke-width="1" stroke-linecap="butt"
+        stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
+        font-family="none" font-weight="none" font-size="none" text-anchor="none"
+        style="mix-blend-mode: normal"
+        transform="matrix(1, 0, 0, 1, -22.57282257080078, 52.53374481201172)" id="object-0">
+        <g
+            data-paper-data="{&quot;isGlobalGroup&quot;:true,&quot;bounds&quot;:{&quot;x&quot;:87.94666229159876,&quot;y&quot;:174.69109587405165,&quot;width&quot;:374.10667541680255,&quot;height&quot;:120.61850825484635}}">
+            <g data-paper-data="{&quot;stacked&quot;:true,&quot;isPrimaryText&quot;:true}"
+                fill-rule="nonzero" id="element-id-55554">
+                <path
+                    d="M268.15939,206.3709h-23.83087v-7.59573h23.83087zM271.52238,189.324h-30.20896v34.03581h-7.53774v-37.77569c0,-0.52184 0.09664,-1.0147 0.28991,-1.47856c0.19328,-0.46386 0.45903,-0.86974 0.79726,-1.21764c0.33823,-0.3479 0.73928,-0.61848 1.20314,-0.81176c0.46386,-0.19328 0.96638,-0.28991 1.50755,-0.28991h33.94884z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;F&quot;,&quot;glyphIndex&quot;:0,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:1,&quot;line&quot;:1,&quot;firstGlyphOfFirstLine&quot;:true}"
+                    fill="#012169" id="element-id-69456" />
+                <path
+                    d="M319.09714,214.22755c0,0.92772 -0.15945,1.92309 -0.47836,2.98611c-0.3189,1.06302 -0.84075,2.04872 -1.56553,2.95711c-0.72478,0.90839 -1.667,1.667 -2.82665,2.27582c-1.15965,0.60882 -2.58023,0.91323 -4.26172,0.91323h-28.61443c-0.54117,0 -1.04369,-0.09664 -1.50755,-0.28991c-0.46386,-0.19328 -0.86491,-0.45903 -1.20314,-0.79726c-0.33823,-0.33823 -0.60399,-0.73928 -0.79726,-1.20314c-0.19328,-0.46386 -0.28991,-0.96638 -0.28991,-1.50755v-33.97783c0,-0.52184 0.09664,-1.0147 0.28991,-1.47856c0.19328,-0.46386 0.45903,-0.86974 0.79726,-1.21764c0.33823,-0.3479 0.73928,-0.61848 1.20314,-0.81176c0.46386,-0.19328 0.96638,-0.28991 1.50755,-0.28991h25.22245c0.92772,0 1.92309,0.16428 2.98611,0.49285c1.06302,0.32857 2.05355,0.85524 2.97161,1.58003c0.91806,0.72478 1.6815,1.667 2.29031,2.82665c0.60882,1.15965 0.91323,2.58023 0.91323,4.26172v1.42057c0,1.3336 -0.22227,2.76867 -0.6668,4.30521c-0.44453,1.53654 -1.15965,2.99094 -2.14536,4.36319c0.85041,0.52184 1.64767,1.14999 2.39178,1.88444c0.74411,0.73445 1.39642,1.58486 1.95691,2.55124c0.5605,0.96638 1.00503,2.05838 1.3336,3.27602c0.32857,1.21764 0.49285,2.5609 0.49285,4.02979zM311.55939,212.77798c0,-0.9857 -0.15462,-1.86994 -0.46386,-2.65271c-0.30924,-0.78277 -0.74411,-1.4544 -1.30461,-2.0149c-0.5605,-0.5605 -1.23696,-0.99054 -2.02939,-1.29011c-0.79243,-0.29958 -1.6815,-0.44937 -2.6672,-0.44937h-16.98891v-7.59573h13.59693c0.9857,0 1.87477,-0.14979 2.6672,-0.44937c0.79243,-0.29958 1.46889,-0.72961 2.02939,-1.29011c0.5605,-0.5605 0.99054,-1.23213 1.29011,-2.0149c0.29958,-0.78277 0.44937,-1.667 0.44937,-2.65271v-1.42057c0,-1.08234 -0.52184,-1.62351 -1.56553,-1.62351h-21.48257v26.49807h24.87455c0.13529,0 0.29958,-0.00966 0.49285,-0.02899c0.19328,-0.01933 0.36722,-0.07731 0.52184,-0.17395c0.15462,-0.09664 0.28991,-0.26092 0.40588,-0.49285c0.11597,-0.23193 0.17395,-0.55084 0.17395,-0.95671z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;B&quot;,&quot;glyphIndex&quot;:1,&quot;word&quot;:1,&quot;line&quot;:1}"
+                    fill="#012169" id="element-id-20844" />
+                <path
+                    d="M333.2449,198.77517h26.46908v-16.98891h7.53774v41.57355h-7.53774v-16.98891h-26.46908v16.98891h-7.53774v-41.57355h7.53774z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;H&quot;,&quot;glyphIndex&quot;:2,&quot;word&quot;:1,&quot;line&quot;:1}"
+                    fill="#012169" id="element-id-32878" />
+                <path
+                    d="M413.63783,189.324h-16.61203v34.03581h-7.53774v-34.03581h-16.64102v-7.53774h40.79079z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;T&quot;,&quot;glyphIndex&quot;:3,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:1,&quot;line&quot;:1,&quot;lastGlyphOfFirstLine&quot;:true}"
+                    fill="#012169" id="element-id-4925" />
+                <path
+                    d="M274.56647,254.17793h-16.61203v34.03581h-7.53774v-34.03581h-16.64102v-7.53774h40.79079z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;T&quot;,&quot;glyphIndex&quot;:4,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:2,&quot;line&quot;:2,&quot;firstGlyphOfSecondLine&quot;:true}"
+                    fill="#d1202e" id="element-id-45661" />
+                <path
+                    d="M321.64837,260.614c0,1.72015 -0.2126,3.25669 -0.63781,4.60962c-0.42521,1.35293 -1.0002,2.5464 -1.72498,3.58043c-0.72478,1.03402 -1.5607,1.91826 -2.50775,2.65271c-0.94705,0.73445 -1.93759,1.33843 -2.97161,1.81196c-1.03402,0.47352 -2.07771,0.81659 -3.13106,1.02919c-1.05335,0.2126 -2.04389,0.3189 -2.97161,0.3189l15.74229,13.59693h-11.65451l-15.7133,-13.59693h-5.42138v-7.53774h17.0469c0.94705,-0.07731 1.81196,-0.27542 2.59472,-0.59432c0.78277,-0.3189 1.45923,-0.74894 2.02939,-1.29011c0.57016,-0.54117 1.00986,-1.19348 1.31911,-1.95691c0.30924,-0.76344 0.46386,-1.63801 0.46386,-2.62371v-4.75458c0,-0.42521 -0.05315,-0.74894 -0.15945,-0.97121c-0.1063,-0.22227 -0.24159,-0.38655 -0.40588,-0.49285c-0.16428,-0.1063 -0.33823,-0.16912 -0.52184,-0.18844c-0.18361,-0.01933 -0.35273,-0.02899 -0.50735,-0.02899h-24.87455v34.03581h-7.53774v-37.77569c0,-0.52184 0.09664,-1.0147 0.28991,-1.47856c0.19328,-0.46386 0.45903,-0.86974 0.79726,-1.21764c0.33823,-0.3479 0.73928,-0.61848 1.20314,-0.81176c0.46386,-0.19328 0.96638,-0.28991 1.50755,-0.28991h28.61443c1.6815,0 3.10207,0.30441 4.26172,0.91323c1.15965,0.60882 2.10187,1.37226 2.82665,2.29031c0.72478,0.91806 1.24663,1.9086 1.56553,2.97161c0.3189,1.06302 0.47836,2.05838 0.47836,2.98611z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;R&quot;,&quot;glyphIndex&quot;:5,&quot;word&quot;:2,&quot;line&quot;:2}"
+                    fill="#d1202e" id="element-id-63209" />
+                <path
+                    d="M369.94791,284.41588c0,0.54117 -0.09664,1.04369 -0.28991,1.50755c-0.19328,0.46386 -0.46386,0.86491 -0.81176,1.20314c-0.3479,0.33823 -0.75377,0.60399 -1.21764,0.79726c-0.46386,0.19328 -0.95671,0.28991 -1.47856,0.28991h-16.98891c-1.60419,0 -3.2277,-0.17395 -4.87054,-0.52184c-1.64284,-0.3479 -3.23253,-0.88424 -4.76907,-1.60902c-1.53654,-0.72478 -2.98127,-1.64767 -4.3342,-2.76867c-1.35293,-1.121 -2.53674,-2.44977 -3.55144,-3.98631c-1.0147,-1.53654 -1.81196,-3.29535 -2.39178,-5.27642c-0.57983,-1.98107 -0.86974,-4.18925 -0.86974,-6.62452v-20.78678h7.53774v20.78678c0,2.12603 0.29475,3.92349 0.88424,5.39239c0.58949,1.46889 1.33843,2.69619 2.24683,3.6819c0.90839,0.9857 1.90376,1.75881 2.98611,2.31931c1.08234,0.5605 2.11153,0.97604 3.08758,1.24663c0.97604,0.27059 1.83612,0.4397 2.58023,0.50735c0.74411,0.06765 1.23213,0.10147 1.46406,0.10147h13.24903v-34.03581h7.53774z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;U&quot;,&quot;glyphIndex&quot;:6,&quot;word&quot;:2,&quot;line&quot;:2}"
+                    fill="#d1202e" id="element-id-55057" />
+                <path
+                    d="M418.65333,275.9794c0,1.48822 -0.18844,2.82665 -0.56533,4.0153c-0.37689,1.18864 -0.87457,2.23716 -1.49305,3.14556c-0.61848,0.90839 -1.34326,1.6815 -2.17435,2.31931c-0.83108,0.63781 -1.69116,1.15965 -2.58023,1.56553c-0.88907,0.40588 -1.79263,0.70546 -2.71069,0.89873c-0.91806,0.19328 -1.78297,0.28991 -2.59472,0.28991h-29.07829v-7.53774h29.07829c1.44957,0 2.5754,-0.42521 3.37749,-1.27562c0.80209,-0.85041 1.20314,-1.99074 1.20314,-3.42098c0,-0.69579 -0.1063,-1.3336 -0.3189,-1.91343c-0.2126,-0.57983 -0.51701,-1.08234 -0.91323,-1.50755c-0.39621,-0.42521 -0.8794,-0.75377 -1.44957,-0.9857c-0.57016,-0.23193 -1.20314,-0.3479 -1.89893,-0.3479h-17.33681c-1.21764,0 -2.53191,-0.21743 -3.94282,-0.6523c-1.41091,-0.43487 -2.72035,-1.13549 -3.92832,-2.10187c-1.20797,-0.96638 -2.213,-2.23233 -3.0151,-3.79786c-0.80209,-1.56553 -1.20314,-3.47896 -1.20314,-5.74028c0,-2.26132 0.40105,-4.16992 1.20314,-5.72579c0.80209,-1.55587 1.80713,-2.82182 3.0151,-3.79786c1.20797,-0.97604 2.51741,-1.6815 3.92832,-2.11637c1.41091,-0.43487 2.72518,-0.6523 3.94282,-0.6523h25.65732v7.53774h-25.65732c-1.43024,0 -2.5464,0.43487 -3.3485,1.30461c-0.80209,0.86974 -1.20314,2.01973 -1.20314,3.44997c0,1.44957 0.40105,2.59472 1.20314,3.43547c0.80209,0.84075 1.91826,1.26112 3.3485,1.26112h17.33681h0.05798c0.81176,0.01933 1.67183,0.13046 2.58023,0.3334c0.90839,0.20294 1.81196,0.51701 2.71069,0.94222c0.89873,0.42521 1.75397,0.96155 2.56573,1.60902c0.81176,0.64747 1.53171,1.42541 2.15985,2.3338c0.62815,0.90839 1.12583,1.95208 1.49305,3.13106c0.36722,1.17898 0.55084,2.51258 0.55084,4.0008z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;S&quot;,&quot;glyphIndex&quot;:7,&quot;word&quot;:2,&quot;line&quot;:2}"
+                    fill="#d1202e" id="element-id-7685" />
+                <path
+                    d="M462.05334,254.17793h-16.61203v34.03581h-7.53774v-34.03581h-16.64102v-7.53774h40.79079z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;T&quot;,&quot;glyphIndex&quot;:8,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:2,&quot;line&quot;:2,&quot;lastGlyphOfSecondLine&quot;:true}"
+                    fill="#d1202e" id="element-id-99970" />
+            </g>
+            <g
+                data-paper-data="{&quot;fillRule&quot;:&quot;evenodd&quot;,&quot;fillRuleOriginal&quot;:&quot;evenodd&quot;,&quot;isIcon&quot;:true,&quot;iconStyle&quot;:&quot;standalone&quot;,&quot;selectedEffects&quot;:{&quot;container&quot;:&quot;&quot;,&quot;transformation&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},&quot;bounds&quot;:{&quot;x&quot;:87.94666229159876,&quot;y&quot;:174.69109587405165,&quot;width&quot;:120.61780825189672,&quot;height&quot;:120.61850825484635},&quot;iconType&quot;:&quot;icon&quot;,&quot;isDetailed&quot;:false,&quot;source&quot;:&quot;noun&quot;,&quot;rawIconId&quot;:&quot;3592574&quot;,&quot;suitableAsStandaloneIcon&quot;:true}"
+                fill="#012169" fill-rule="evenodd" id="element-id-36214">
+                <g data-paper-data="{&quot;isPathIcon&quot;:true}" id="element-id-79713">
+                    <path
+                        d="M177.34634,264.14147c10.53604,-4.74402 19.97408,-8.56004 28.55112,-11.34505c1.73901,-5.62302 2.66701,-11.60005 2.66701,-17.79607c0,-33.31214 -26.99711,-60.30925 -60.30825,-60.30925c-33.31214,0 -60.30955,26.99711 -60.30955,60.30925c0,33.31214 26.99741,60.30925 60.30955,60.30925c9.97804,0 19.38208,-2.43101 27.67212,-6.72003c-12.66305,0.625 -21.42509,-2.46501 -26.71011,-5.35202c0,0 13.52406,5.18302 34.88215,0.27c4.35602,-3.22501 8.23903,-7.00703 11.58205,-11.26105c-33.73014,17.25307 -67.30928,2.85601 -79.94134,-10.86905c0.319,0.327 21.50809,20.82009 61.60526,2.76401zM105.38804,227.95932c0,-22.26909 18.06508,-40.35217 40.33517,-40.35217c8.12103,0 15.68507,2.39801 22.01609,6.55103c-3.83202,-1.40101 -7.98603,-2.16101 -12.32505,-2.16101c-19.87208,0 -35.97915,16.10707 -35.97915,35.97915c0,19.87308 16.10707,35.98015 35.97915,35.98015c4.33902,0 8.49304,-0.777 12.32505,-2.16101c-6.33103,4.15302 -13.89506,6.55003 -22.01609,6.55003c-22.27009,-0.033 -40.33517,-18.09908 -40.33517,-40.38617zM184.48837,226.67631c0,5.96003 -1.75601,11.51505 -4.81202,16.15807c1.03,-2.82001 1.58701,-5.85902 1.58701,-9.05004c0,-14.58706 -11.81805,-26.40611 -26.40611,-26.40611c-14.58706,0 -26.40611,11.81905 -26.40611,26.40611c0,3.17501 0.574,6.23003 1.58701,9.05004c-3.05601,-4.64302 -4.81202,-10.19804 -4.81202,-16.15807c0,-16.36007 13.25406,-29.61412 29.63112,-29.61412c16.36107,0 29.63112,13.27106 29.63112,29.61412z"
+                        id="element-id-64634" fill="#012169" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect data-element-id="element-id-55554" stroke-width="2" fill="transparent"
+        class="invisible-element-box grouping-element" x="211.427" y="234.534" width="228"
+        height="106" data-element-name="isPrimaryText" style="stroke-width: 2;" id="object-1"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-36214" stroke-width="2" fill="transparent"
+        class="invisible-element-box grouping-element" x="65.427" y="227.534" width="121"
+        height="121" data-element-name="isIcon" style="stroke-width: 2;" id="object-2"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-79713" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="65.427" y="227.534" width="121"
+        height="121" style="stroke-width: 2;" id="object-3"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-64634" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="65.427" y="227.534" width="121"
+        height="121" style="stroke-width: 2;" id="object-4"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-63209" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="257.427" y="299.534" width="43"
+        height="42" style="stroke-width: 2;" id="object-5"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-20844" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="255.427" y="234.534" width="42"
+        height="42" style="stroke-width: 2;" id="object-6"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-32878" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="303.427" y="234.534" width="42"
+        height="42" style="stroke-width: 2;" id="object-7"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-55057" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="305.427" y="299.534" width="42"
+        height="42" style="stroke-width: 2;" id="object-8"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-7685" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="354.427" y="299.534" width="42"
+        height="42" style="stroke-width: 2;" id="object-9"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-4925" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="350.427" y="234.534" width="41"
+        height="42" style="stroke-width: 2;" id="object-10"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-45661" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="211.427" y="299.534" width="41"
+        height="42" style="stroke-width: 2;" id="object-11"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-99970" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="398.427" y="299.534" width="41"
+        height="42" style="stroke-width: 2;" id="object-12"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+    <rect data-element-id="element-id-69456" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="211.427" y="234.534" width="38"
+        height="42" style="stroke-width: 2;" id="object-13"
+        transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)" />
+</svg>

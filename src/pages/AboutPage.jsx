@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import ContactUs from './ContactUs'; // Assuming ContactUs is in the same directory for this example.
+import ContactUs from '../component/ContactUs'; // Assuming ContactUs is in the same directory for this example.
 
 export default function AboutPage() {
     // useEffect hook to run after the component mounts

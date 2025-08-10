@@ -167,7 +167,7 @@ export default function UserDashboard() {
                     <div className="flex items-center justify-between text-sm text-gray-700">
                       <div className="flex items-center">
                         <Banknote size={16} className="text-gray-500 mr-2" />
-                        <span>Bank of America Life Plan®</span>
+                        <span>FBHT Life Plan®</span>
                       </div>
                       <Link to="/user/transactions" className="text-blue-600">
                         <ChevronRight size={16} className="text-gray-400" />
@@ -194,10 +194,10 @@ export default function UserDashboard() {
                   <div className="flex justify-between items-center mb-3">
                     <h2 className="text-lg font-semibold text-gray-800">Banking</h2>
                     <Link to="/user/transactions" className="text-blue-600">
-                    <ChevronRight size={18} className="text-gray-400" />
+                      <ChevronRight size={18} className="text-gray-400" />
                     </Link>
                   </div>
-                  <p className="text-xs text-gray-500 mb-3">BANK OF AMERICA</p>
+                  <p className="text-xs text-gray-500 mb-3">FBHT</p>
                   {/* Safely iterate over accounts using optional chaining and length check */}
                   {user.accounts && user.accounts.length > 0 ? (
                     <div className="space-y-3">
@@ -232,7 +232,7 @@ export default function UserDashboard() {
                       <ChevronRight size={18} className="text-gray-400" />
                     </Link>
                   </div>
-                  <p className="text-xs text-gray-500 mb-3">BANK OF AMERICA</p>
+                  <p className="text-xs text-gray-500 mb-3">FBHT</p>
 
                   {/* Safely iterate over credit_cards using optional chaining and length check */}
                   {user.credit_cards && user.credit_cards.length > 0 ? (

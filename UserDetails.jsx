@@ -390,7 +390,7 @@ export default function UserDetails() {
         setIsLoading(true);
         try {
             const response = await fetch(
-                `${VITE_BACKEND_API_URL}users/${id}/transactions/${deletingTransactionId}`,
+                `${import.meta.env.VITE_BACKEND_API_URL}/users/${id}/transactions/${deletingTransactionId}`,
                 {
                     method: 'DELETE',
                     headers: {

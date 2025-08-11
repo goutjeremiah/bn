@@ -29,31 +29,31 @@ export default function ContactUs() {
             return;
         }
 
-       const formData = new FormData();
-       formData.append('name', fullName);
-       formData.append('email', email);
-       formData.append('message', message);
+        const formData = new FormData();
+        formData.append('name', fullName);
+        formData.append('email', email);
+        formData.append('message', message);
 
-     const response = await fetch(`${import.meta.env.VITE_BACKEND_API_URL}/contact-us`, {
-        method: 'POST',
-        headers: {
-            Accept: 'application/json',
-        },
-        body: formData,
-    });
+        const response = await fetch(`${import.meta.env.VITE_BACKEND_API_URL}/contact`, {
+            method: 'POST',
+            headers: {
+                Accept: 'application/json',
+            },
+            body: formData,
+        });
 
-    const data = await response.json();
+        const data = await response.json();
 
-     if (response.status === 200 || response.status === 201) {
-        toast.success('Your message has been sent successfully!');
-        setFullName('');
-        setEmail('');
-        setMessage('');
-        setLoading(false);
-    } else {
-        toast.error(data.message || 'Failed to send message. Please try again.');
-        setLoading(false);
-    }
+        if (response.status === 200 || response.status === 201) {
+            toast.success('Your message has been sent successfully!');
+            setFullName('');
+            setEmail('');
+            setMessage('');
+            setLoading(false);
+        } else {
+            toast.error(data.message || 'Failed to send message. Please try again.');
+            setLoading(false);
+        }
     };
 
     return (
@@ -120,8 +120,8 @@ export default function ContactUs() {
                         type="submit"
                         disabled={loading}
                         className={`w-full py-2 px-4 rounded-md text-white font-semibold transition-colors duration-300 ${loading
-                                ? 'bg-primary/70 cursor-not-allowed'
-                                : 'bg-primary hover:bg-accent focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2'
+                            ? 'bg-primary/70 cursor-not-allowed'
+                            : 'bg-primary hover:bg-accent focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2'
                             }`}
                     >
                         {loading ? 'Submitting...' : 'Send Message'}
